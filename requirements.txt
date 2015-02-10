@@ -1,0 +1,4 @@
+ipython[all]
+pandas
+matplotlib
+seaborn
